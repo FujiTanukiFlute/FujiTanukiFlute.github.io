@@ -103,6 +103,10 @@ header{
   letter-spacing: 5px;
 }
 
+.top-wrapper p{
+  color: white;
+}
+
 .small{
   font-size: 30px;
   letter-spacing: 1px;
